@@ -2,6 +2,7 @@
 
 ## Project Information
 - **Project Name:** Leapify ([Website](https://musing-saha-2d39c9.netlify.app/))
+- **Full Report:** ([Google Docs](https://docs.google.com/document/d/1_kleOT1_bzdXECkiiXdGx3wzwwz_f9Hgbi8vEDqEUCw/edit?usp=sharing))
 - **Date:** 23 June, 2024
 - **Version:** N/A
 - **Reported by:** Sandhikshyan Roy
